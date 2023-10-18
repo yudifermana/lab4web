@@ -1,5 +1,4 @@
 # Lab4web
-# Lab4web
 # Nama : Yudi Fermana 
 # Kelas : TI.22.A3
 # NIM : 312210321
@@ -599,4 +598,4 @@ button :hover{
 ```
 ## Hasil Output
 ![gambar 11](lab4.11.png)
-![gambar 12](lab4.12.png)
+![gambar 12](C:/Users/Aspire 3/lab_4_web/lab4.13.png)
