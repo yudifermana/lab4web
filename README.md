@@ -3,7 +3,6 @@
 # Kelas : TI.22.A3
 # NIM : 312210321
 
-
 ## Langkah-langkah Praktikum
 * Persiapan membuat dokumen HTML dengan nama file lab4_box.html seperti berikut.
 ``` python
@@ -598,4 +597,4 @@ button :hover{
 ```
 ## Hasil Output
 ![gambar 11](lab4.11.png)
-![gambar 12](C:/Users/Aspire 3/lab_4_web/lab4.13.png)
+![gambar 12](lab4.12.png)
