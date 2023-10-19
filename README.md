@@ -84,10 +84,10 @@ float: none;
 </html>
 ```
 ## Hasil Output
-![gambar 1](lab4.1.png)
+<img src="lab4.1.png" alt="">
 ## Membuat Layout Sederhana
 * Kita akan membuat layout web sederhana seperti gambar berikut.
-![gambar 2](lab4.2.png)
+<img src="lab4.2.png" alt="">
 ## Buat folder baru dengan nama ```lab4_layout```, kemudian buatlah file baru didalamnya dengan nama ```home.html```, dan file css dengan nama ```style.css```.
 ```python
 <!DOCTYPE html>
@@ -125,7 +125,7 @@ float: none;
 </footer>
 ```
 ## Hasil Output
-![gambar 3](lab4.3.png)
+<img src="lab4.3.png" alt="">
 ## Kemudian tambahkan kode CSS untuk membuat layoutnya.
 ```python
 /* import google font */
@@ -159,7 +159,7 @@ header h1 {
 }
 ```
 ## Hasil Output
-![gambar 4](lab4.4.png)
+<img src="lab4.4.png" alt="">
 ## Membuat Navigasi
 * Kemudian selanjutnya mengatur navigasi.
 ```python
@@ -182,7 +182,7 @@ nav a:hover {
 }
 ```
 ## Hasil Output
-![gambar 5](lab4.5.png)
+<img src="lab4.5.png" alt="">
 ## Membuat Hero Panel.
 * Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
 ```python
@@ -213,7 +213,7 @@ nav a:hover {
 }
 ```
 ## Hasil Output
-![gambar 6](lab4.6.png)
+<img src="lab4.6.png" alt="">
 ## Mengatur Layout Main dan Sidebar
 * Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 ```python
@@ -281,7 +281,7 @@ nav a:hover {
 }
 ```
 ## Hasil Output
-![gambar 7](lab4.7.png)
+<img src="lab4.7.png" alt="">
 ## Mengatur Footer
 * Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
 ```python
@@ -294,7 +294,7 @@ footer {
 }
 ```
 ## Hasil Output
-![gambar 8](lab4.8.png)
+<img src="lab4.8.png" alt="">
 ## Menambahkan Elemen lainnya pada Main Content
 ```python
 <section id="main">
@@ -367,7 +367,7 @@ box img {
 }
 ```
 ## Hasil Output
-![gambar 9](lab4.9.png)
+<img src="lab4.9.png" alt="">
 ## Menambahkan Content Artikel
 * Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
 ```python
@@ -413,7 +413,7 @@ box img {
 }
 ```
 ## Hasil Output
-![gambar 10](lab4.10.png)
+<img src="lab4.10.png" alt="">
 ## Pertanyaan dan Tugas
 1. Tambahkan Layout untuk menu About
 * => buat single layout yang berisi deskripsi, portfolio, dll
@@ -596,5 +596,5 @@ button :hover{
 }
 ```
 ## Hasil Output
-![gambar 11](lab4.11.png)
-![gambar 12](lab4.12.png)
+<img src="lab4.11.png" alt="">
+<img src="lab4.12.png" alt="">
