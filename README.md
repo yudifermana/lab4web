@@ -84,7 +84,8 @@ float: none;
 </html>
 ```
 ## Hasil Output
-[gambar](https://github.com/yudifermana/lab4web/assets/115516653/5295189b-b12d-4817-822f-0df10d6caafa)
+![gambar](![lab4 1](https://github.com/yudifermana/lab4web/assets/115516653/b644e239-d882-4ab0-bab8-d35dc254c10e)
+
 
 ## Membuat Layout Sederhana
 * Kita akan membuat layout web sederhana seperti gambar berikut.
