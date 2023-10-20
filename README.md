@@ -89,7 +89,7 @@ float: none;
 
 ## Membuat Layout Sederhana
 * Kita akan membuat layout web sederhana seperti gambar berikut.
-<img src="lab4.2.png" alt="">
+![lab4 2](https://github.com/yudifermana/lab4web/assets/115516653/2a265cac-d30a-4ed0-9f39-5226645e12fc)
 ## Buat folder baru dengan nama ```lab4_layout```, kemudian buatlah file baru didalamnya dengan nama ```home.html```, dan file css dengan nama ```style.css```.
 ```python
 <!DOCTYPE html>
@@ -127,7 +127,7 @@ float: none;
 </footer>
 ```
 ## Hasil Output
-<img src="lab4.3.png" alt="">
+![lab4 3](https://github.com/yudifermana/lab4web/assets/115516653/d75ad379-ddad-4feb-979c-b5d6ebf28a5e)
 ## Kemudian tambahkan kode CSS untuk membuat layoutnya.
 ```python
 /* import google font */
@@ -184,7 +184,7 @@ nav a:hover {
 }
 ```
 ## Hasil Output
-<img src="lab4.5.png" alt="">
+![lab4 4](https://github.com/yudifermana/lab4web/assets/115516653/9f8d091a-d52f-444f-9ede-7c0b62faafd6)
 ## Membuat Hero Panel.
 * Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
 ```python
@@ -215,7 +215,7 @@ nav a:hover {
 }
 ```
 ## Hasil Output
-<img src="lab4.6.png" alt="">
+![lab4 5](https://github.com/yudifermana/lab4web/assets/115516653/91dd6bb8-243a-46b6-a7fe-1f8f8254c240)
 ## Mengatur Layout Main dan Sidebar
 * Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 ```python
@@ -283,7 +283,7 @@ nav a:hover {
 }
 ```
 ## Hasil Output
-<img src="lab4.7.png" alt="">
+![lab4 6](https://github.com/yudifermana/lab4web/assets/115516653/ee4fce1e-5aaf-45ab-944c-6c7a2ee217ec)
 ## Mengatur Footer
 * Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
 ```python
@@ -296,7 +296,7 @@ footer {
 }
 ```
 ## Hasil Output
-<img src="lab4.8.png" alt="">
+![lab4 7](https://github.com/yudifermana/lab4web/assets/115516653/24722ec1-5c63-41f1-bf02-45d6ad758f5e)
 ## Menambahkan Elemen lainnya pada Main Content
 ```python
 <section id="main">
@@ -369,7 +369,7 @@ box img {
 }
 ```
 ## Hasil Output
-<img src="lab4.9.png" alt="">
+![lab4 8](https://github.com/yudifermana/lab4web/assets/115516653/ac2b2988-e5c7-46b3-9b0b-4b04a69259a0)
 ## Menambahkan Content Artikel
 * Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
 ```python
@@ -415,7 +415,7 @@ box img {
 }
 ```
 ## Hasil Output
-<img src="lab4.10.png" alt="">
+![lab4 9](https://github.com/yudifermana/lab4web/assets/115516653/c0efa107-48cc-4bae-92ae-c6f1dd1b8f7b)
 ## Pertanyaan dan Tugas
 1. Tambahkan Layout untuk menu About
 * => buat single layout yang berisi deskripsi, portfolio, dll
@@ -598,5 +598,5 @@ button :hover{
 }
 ```
 ## Hasil Output
-<img src="lab4.11.png" alt="">
-<img src="lab4.12.png" alt="">
+![lab4 10](https://github.com/yudifermana/lab4web/assets/115516653/e9612632-a047-4639-b08d-b10badff65a8)
+![lab4 11](https://github.com/yudifermana/lab4web/assets/115516653/9b85a299-8c78-4e23-8d26-2b288f47ecdd)
