@@ -3,6 +3,11 @@
 # Kelas : TI.22.A3
 # NIM : 312210321
 
+## Instruksi Praktikum
+1. Persiapkan text editor misalnya VSCode.
+2. Buat folder baru dengan nama Lab4Web
+3. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
+4. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
 ## Langkah-langkah Praktikum
 * Persiapan membuat dokumen HTML dengan nama file lab4_box.html seperti berikut.
 ``` python
@@ -84,12 +89,13 @@ float: none;
 </html>
 ```
 ## Hasil Output
-![lab4 1](https://github.com/yudifermana/lab4web/assets/115516653/b644e239-d882-4ab0-bab8-d35dc254c10e)
-
+![lab4 1](https://github.com/yudifermana/lab4web/assets/115516653/41c42d82-dbd0-42de-828a-6bb9097d3acb)
 
 ## Membuat Layout Sederhana
 * Kita akan membuat layout web sederhana seperti gambar berikut.
-![lab4 2](https://github.com/yudifermana/lab4web/assets/115516653/2a265cac-d30a-4ed0-9f39-5226645e12fc)
+![lab4 2](https://github.com/yudifermana/lab4web/assets/115516653/1c8f0b45-8833-4dad-b391-218fca2c3099)
+
+
 ## Buat folder baru dengan nama ```lab4_layout```, kemudian buatlah file baru didalamnya dengan nama ```home.html```, dan file css dengan nama ```style.css```.
 ```python
 <!DOCTYPE html>
@@ -127,7 +133,8 @@ float: none;
 </footer>
 ```
 ## Hasil Output
-![lab4 3](https://github.com/yudifermana/lab4web/assets/115516653/d75ad379-ddad-4feb-979c-b5d6ebf28a5e)
+![lab4 4](https://github.com/yudifermana/lab4web/assets/115516653/71ebc08d-3c01-4c2d-b972-8bde925e21c2)
+
 ## Kemudian tambahkan kode CSS untuk membuat layoutnya.
 ```python
 /* import google font */
@@ -161,7 +168,8 @@ header h1 {
 }
 ```
 ## Hasil Output
-<img src="lab4.4.png" alt="">
+![lab4 5](https://github.com/yudifermana/lab4web/assets/115516653/73492a85-d367-4bb3-8041-a8da95d21ad3)
+
 ## Membuat Navigasi
 * Kemudian selanjutnya mengatur navigasi.
 ```python
@@ -184,7 +192,8 @@ nav a:hover {
 }
 ```
 ## Hasil Output
-![lab4 4](https://github.com/yudifermana/lab4web/assets/115516653/9f8d091a-d52f-444f-9ede-7c0b62faafd6)
+![lab4 6](https://github.com/yudifermana/lab4web/assets/115516653/7febd57d-4ead-476a-830b-977d9119acbf)
+
 ## Membuat Hero Panel.
 * Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
 ```python
@@ -215,7 +224,8 @@ nav a:hover {
 }
 ```
 ## Hasil Output
-![lab4 5](https://github.com/yudifermana/lab4web/assets/115516653/91dd6bb8-243a-46b6-a7fe-1f8f8254c240)
+![lab4 7](https://github.com/yudifermana/lab4web/assets/115516653/9b20ea3d-cddb-4648-b906-463a811004e7)
+
 ## Mengatur Layout Main dan Sidebar
 * Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 ```python
@@ -283,7 +293,8 @@ nav a:hover {
 }
 ```
 ## Hasil Output
-![lab4 6](https://github.com/yudifermana/lab4web/assets/115516653/ee4fce1e-5aaf-45ab-944c-6c7a2ee217ec)
+![lab4 8](https://github.com/yudifermana/lab4web/assets/115516653/8fcb0eed-260e-498f-872a-c86b51c4cd00)
+
 ## Mengatur Footer
 * Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
 ```python
@@ -296,7 +307,8 @@ footer {
 }
 ```
 ## Hasil Output
-![lab4 7](https://github.com/yudifermana/lab4web/assets/115516653/24722ec1-5c63-41f1-bf02-45d6ad758f5e)
+![lab4 9](https://github.com/yudifermana/lab4web/assets/115516653/bd92cca5-5d9e-4d03-ab2b-d07cd0e9bc2a)
+
 ## Menambahkan Elemen lainnya pada Main Content
 ```python
 <section id="main">
@@ -369,7 +381,8 @@ box img {
 }
 ```
 ## Hasil Output
-![lab4 8](https://github.com/yudifermana/lab4web/assets/115516653/ac2b2988-e5c7-46b3-9b0b-4b04a69259a0)
+![lab4 10](https://github.com/yudifermana/lab4web/assets/115516653/c2f5b281-313a-40d8-9e4e-424987f1b1a9)
+
 ## Menambahkan Content Artikel
 * Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
 ```python
@@ -415,7 +428,8 @@ box img {
 }
 ```
 ## Hasil Output
-![lab4 9](https://github.com/yudifermana/lab4web/assets/115516653/c0efa107-48cc-4bae-92ae-c6f1dd1b8f7b)
+![lab4 11](https://github.com/yudifermana/lab4web/assets/115516653/4fa2bd79-58b7-4145-83a5-f3d853f79c2f)
+
 ## Pertanyaan dan Tugas
 1. Tambahkan Layout untuk menu About
 * => buat single layout yang berisi deskripsi, portfolio, dll
@@ -598,5 +612,6 @@ button :hover{
 }
 ```
 ## Hasil Output
-![lab4 10](https://github.com/yudifermana/lab4web/assets/115516653/e9612632-a047-4639-b08d-b10badff65a8)
-![lab4 11](https://github.com/yudifermana/lab4web/assets/115516653/9b85a299-8c78-4e23-8d26-2b288f47ecdd)
+![lab4 12](https://github.com/yudifermana/lab4web/assets/115516653/1057d35e-f757-4985-94d4-86d825044269)
+
+![lab4 13](https://github.com/yudifermana/lab4web/assets/115516653/1d49e8f6-7bba-410a-8eb7-331765058766)
